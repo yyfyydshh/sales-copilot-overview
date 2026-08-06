@@ -1,0 +1,13 @@
+# Keep this overview repository free of confidential inputs and generated artifacts.
+.env
+.env.*
+*.key
+*.pem
+*.zip
+*.csv
+*.xlsx
+*.xls
+*.json
+*.log
+internal/
+private/
